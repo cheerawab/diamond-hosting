@@ -252,9 +252,9 @@ export default function Home() {
           <div>
             <h4 className="font-bold mb-6">產品服務</h4>
             <ul className="space-y-4 text-gray-400 text-sm">
-              <li><Link href="#minecraft" className="hover:text-white transition-colors">Minecraft 託管</Link></li>
-              <li><Link href="#web" className="hover:text-white transition-colors">網頁託管</Link></li>
-              <li><Link href="#" className="hover:text-white transition-colors">SSL 憑證</Link></li>
+              <li><Link href="https://store.diamondhost.tw/store/tw-extreme" className="hover:text-white transition-colors">Minecraft 託管</Link></li>
+              <li><Link href="https://diamondhost.xn--hoq.tw/" className="hover:text-white transition-colors">網頁託管</Link></li>
+              <li><Link href="https://store.diamondhost.tw/store/ssl-certificates" className="hover:text-white transition-colors">SSL 憑證</Link></li>
             </ul>
           </div>
 
@@ -272,7 +272,7 @@ export default function Home() {
         </div>
 
         <div className="max-w-7xl mx-auto pt-8 border-t border-white/5 text-center text-gray-600 text-sm">
-          &copy; 2022-2026 Diamond Hosting. Operated by Jie Shang Technology Co., Ltd.
+          &copy; 2022-2026 Diamond Hosting. Operated by Jetsion Co., Ltd.
         </div>
       </footer>
     </div>
